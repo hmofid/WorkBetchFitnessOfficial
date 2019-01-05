@@ -5,6 +5,10 @@ package com.example.hannamofid.workbetchfitness;
 
 public class MainActivity extends AppCompatActivity {
 
+    android.widget.Button CalorieLog;
+    android.widget.Button ExerciseLog;
+    android.widget.Button WeighIn;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
